@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model
+END
+advancedmodel.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/advancedmodel.js
+END
+blockmaps.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/blockmaps.js
+END
+snapshot.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/snapshot.js
+END
+securitygroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/securitygroup.js
+END
+blockmap.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/blockmap.js
+END
+snapshots.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/snapshots.js
+END
+typemodel.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/typemodel.js
+END
+imagemodel.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/imagemodel.js
+END
+tag.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/tag.js
+END
+keypair.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/shared/model/keypair.js
+END

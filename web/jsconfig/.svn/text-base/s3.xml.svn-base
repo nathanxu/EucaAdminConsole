@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<attr>
+		<label>{{:s3_storagemaxbucketsize}}</label>
+ 		<labelclass>required-label long-label</labelclass><!--required-label,long-label,extra-long-label,mega-long-label-->
+		<type>text</type>
+		<id>walrus.storagemaxbucketsizeinmb</id>
+		<class>required</class>
+		<title></title>
+		<maxLength>254</maxLength>
+	</attr>
+	<attr>
+		<label>{{:s3_storagemaxcachesize}}</label>
+		<labelclass>required-label long-label</labelclass>
+		<type>text</type>
+		<id>walrus.storagemaxcachesizeinmb</id>
+		<class>required</class>
+		<title></title>
+		<maxLength>254</maxLength>
+	</attr>
+	<attr>
+		<label>{{:s3_storagemaxbucketperaccount}}</label>
+		<labelclass>required-label long-label</labelclass>
+		<type>text</type>
+		<id>walrus.storagemaxbucketperaccount</id>
+		<class>required</class>
+		<title></title>
+		<maxLength>254</maxLength>
+	</attr>
+	<attr>
+		<label>{{:s3_storagemaxtotalcapacity}}</label>
+		<labelclass>required-label long-label</labelclass>
+		<type>text</type>
+		<id>walrus.storagemaxtotalcapacity</id>
+		<class>required</class>
+		<title></title>
+		<maxLength>254</maxLength>
+	</attr>
+	<attr>
+		<label>{{:s3_storagemaxtotalsnapshotsize}}</label>
+		<labelclass>required-label long-label</labelclass>
+		<type>text</type>
+		<id>walrus.storagemaxtotalsnapshotsizeingb</id>
+		<class>required</class>
+		<title></title>
+		<maxLength>254</maxLength>
+	</attr>
+</root>

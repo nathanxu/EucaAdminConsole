@@ -1,0 +1,10 @@
+define([
+    'models/eucacollection',
+    'models/scalinggrp'
+], function(EucaCollection, ScalingGrp) {
+    var collection = EucaCollection.extend({
+	  model: ScalingGrp,
+	  url: 'ea.scalings.ScalingAction$queryAutoScalingInstances.json'
+    });
+    return collection;
+});

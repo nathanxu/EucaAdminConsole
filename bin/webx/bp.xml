@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.springframework.org/schema/beans" xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd
+    ">
+
+	<bean id="menuRootId" class="java.lang.Integer">
+		<constructor-arg>
+			<value>-1</value>
+		</constructor-arg>
+	</bean>
+
+	<bean id="allowLeafAt1Level" class="java.lang.Boolean">
+		<constructor-arg>
+			<value>false</value>
+		</constructor-arg>
+	</bean>
+	
+	<bean id="esbConfBean" class="com.hnasys.bp.employee.bean.ESBConfBean">
+		<property name="soapUrl" value="${hna.eai.soapUrl}"/>
+		<property name="userId" value="${hna.eai.userId}"/>
+		<property name="userPwd" value="${hna.eai.userPwd.password}"/>
+		<property name="privateKeyPath" value="${hna.eai.privateKeyPath.confidential}"/>
+	</bean>
+
+	<util:map id="BP_SYS_PARAM.PARAM_TYPE" map-class="java.util.LinkedHashMap">
+		<entry key="0" value="其它" />
+		<entry key="1" value="布尔型" />
+		<entry key="2" value="整数" />
+		<entry key="3" value="浮点数" />
+		<entry key="4" value="字符串" />
+		<entry key="5" value="列表(逗号分隔)" />
+	</util:map>
+
+	<util:map id="BP_TASK_DEF.SHED_TYPE" map-class="java.util.LinkedHashMap">
+		<!--<entry key="1" value="SIMPLE" /> -->
+		<entry key="2" value="CRON" />
+	</util:map>
+
+	<util:map id="moduleMap" map-class="java.util.LinkedHashMap">
+		<entry key="bp" value="基础平台" />
+		<entry key="bp.login" value="基础平台-用户登录" />
+		<entry key="bp.user" value="基础平台-用户管理" />
+		<entry key="bp.role" value="基础平台-角色管理" />
+		<entry key="bp.audit" value="基础平台-审计日志" />
+		<entry key="bp.menu" value="基础平台-菜单管理" />
+		<entry key="bp.org" value="基础平台-组织机构" />
+		<entry key="bp.seq" value="基础平台-号码表" />
+	</util:map>
+
+	<util:map id="BP_MENU.MENU_KIND" map-class="java.util.LinkedHashMap">
+		<entry key="0" value="非Win8类型" />
+		<entry key="1" value="Win8普通类型" />
+		<entry key="2" value="Win8回调类型" />
+		<entry key="3" value="Win8通知类型" />
+	</util:map>
+
+</beans>

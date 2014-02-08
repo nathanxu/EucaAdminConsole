@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sy/!svn/ver/3/eucalyptus-admin/test/webx
+END
+bp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sy/!svn/ver/3/eucalyptus-admin/test/webx/bp.xml
+END
+data-source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/3/eucalyptus-admin/test/webx/data-source.xml
+END
+enum-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/3/eucalyptus-admin/test/webx/enum-data.xml
+END

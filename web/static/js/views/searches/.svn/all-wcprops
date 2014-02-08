@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches
+END
+generic.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/generic.js
+END
+instance.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/instance.js
+END
+launchconfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/launchconfig.js
+END
+snapshot.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/snapshot.js
+END
+tagsearch.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/tagsearch.js
+END
+scalinggrp.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/scalinggrp.js
+END
+scalinginst.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/scalinginst.js
+END
+eip.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/eip.js
+END
+sgroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/sgroup.js
+END
+image.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/image.js
+END
+volume.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/volume.js
+END
+keypair.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/searches/keypair.js
+END

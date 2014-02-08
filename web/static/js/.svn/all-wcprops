@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js
+END
+instance.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/instance.js
+END
+newlaunchconfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/newlaunchconfig.js
+END
+support.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/support.js
+END
+header.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/header.js
+END
+sgroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/sgroup.js
+END
+scaling.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/scaling.js
+END
+help.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/help.js
+END
+launcher.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/launcher.js
+END
+jquery.dataTables.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/jquery.dataTables.js
+END
+explorer.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/explorer.js
+END
+i18n.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/i18n.js
+END
+eucalyptus.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/eucalyptus.js
+END
+main_container.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/main_container.js
+END
+volume.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/volume.js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/main.js
+END
+keypair.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/keypair.js
+END
+scalinggroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/scalinggroup.js
+END
+rivetstest.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/rivetstest.js
+END
+dataholder.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/dataholder.js
+END
+launchconfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/launchconfig.js
+END
+newinstance.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/newinstance.js
+END
+dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/dashboard.js
+END
+eucawidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/eucawidget.js
+END
+eucaevent.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/eucaevent.js
+END
+eip.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/eip.js
+END
+wizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/wizard.js
+END
+notification.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/notification.js
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/login.js
+END
+jpvols.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/jpvols.js
+END
+jquery_generate_file.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/jquery_generate_file.js
+END
+snapshot.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/snapshot.js
+END
+app.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/app.js
+END
+jquery_ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/jquery_ext.js
+END
+sharedtags.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/sharedtags.js
+END
+image.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/image.js
+END
+footer.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/footer.js
+END
+balancing.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/balancing.js
+END
+eucadata.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/eucadata.js
+END
+newscalinggroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/newscalinggroup.js
+END

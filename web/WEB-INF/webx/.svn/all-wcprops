@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sy/!svn/ver/435/eucalyptus-admin/web/WEB-INF/webx
+END
+uris.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/webx/uris.xml
+END
+ea.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/435/eucalyptus-admin/web/WEB-INF/webx/ea.xml
+END
+webx-component-and-root.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/webx/webx-component-and-root.xml
+END
+pipeline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/235/eucalyptus-admin/web/WEB-INF/webx/pipeline.xml
+END
+pipeline-exception.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/webx/pipeline-exception.xml
+END
+webx-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/webx/webx-component.xml
+END
+resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/webx/resources.xml
+END

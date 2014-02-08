@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/803/eucalyptus-admin/web/js/views/searches
+END
+generic.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/generic.js
+END
+instance.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/instance.js
+END
+cloudmanagement_capacityreport.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sy/!svn/ver/803/eucalyptus-admin/web/js/views/searches/cloudmanagement_capacityreport.js
+END
+cloudmanagement_user.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/79/eucalyptus-admin/web/js/views/searches/cloudmanagement_user.js
+END
+cloudmanagement_instancereport.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sy/!svn/ver/803/eucalyptus-admin/web/js/views/searches/cloudmanagement_instancereport.js
+END
+cloudmanagement_manageimage.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/79/eucalyptus-admin/web/js/views/searches/cloudmanagement_manageimage.js
+END
+scalinginst.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/scalinginst.js
+END
+cloudmanagement_usergroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/79/eucalyptus-admin/web/js/views/searches/cloudmanagement_usergroup.js
+END
+sgroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/sgroup.js
+END
+infrastructure_sc.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/76/eucalyptus-admin/web/js/views/searches/infrastructure_sc.js
+END
+configurecloud_loadbalancer.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sy/!svn/ver/893/eucalyptus-admin/web/js/views/searches/configurecloud_loadbalancer.js
+END
+cloudmanagement_account.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sy/!svn/ver/79/eucalyptus-admin/web/js/views/searches/cloudmanagement_account.js
+END
+infrastructure_node.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/76/eucalyptus-admin/web/js/views/searches/infrastructure_node.js
+END
+cloudmanagement_s3report.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/803/eucalyptus-admin/web/js/views/searches/cloudmanagement_s3report.js
+END
+volume.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/volume.js
+END
+configurecloud_cloudproperty.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sy/!svn/ver/74/eucalyptus-admin/web/js/views/searches/configurecloud_cloudproperty.js
+END
+keypair.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/keypair.js
+END
+launchconfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/launchconfig.js
+END
+cloudmanagement_volumereport.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sy/!svn/ver/803/eucalyptus-admin/web/js/views/searches/cloudmanagement_volumereport.js
+END
+configurecloud_ebsservice.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/74/eucalyptus-admin/web/js/views/searches/configurecloud_ebsservice.js
+END
+eip.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/eip.js
+END
+infrastructure_walrus.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sy/!svn/ver/76/eucalyptus-admin/web/js/views/searches/infrastructure_walrus.js
+END
+infrastructure_vmwarebroker.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/76/eucalyptus-admin/web/js/views/searches/infrastructure_vmwarebroker.js
+END
+snapshot.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/snapshot.js
+END
+tagsearch.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/tagsearch.js
+END
+cloudmanagement_ipreport.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/803/eucalyptus-admin/web/js/views/searches/cloudmanagement_ipreport.js
+END
+configurecloud_vmtype.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sy/!svn/ver/74/eucalyptus-admin/web/js/views/searches/configurecloud_vmtype.js
+END
+infrastructure_storage.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/76/eucalyptus-admin/web/js/views/searches/infrastructure_storage.js
+END
+scalinggrp.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/scalinggrp.js
+END
+infrastructure_clc.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/76/eucalyptus-admin/web/js/views/searches/infrastructure_clc.js
+END
+cloudmanagement_credential.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/79/eucalyptus-admin/web/js/views/searches/cloudmanagement_credential.js
+END
+cloudmanagement_healthchecking.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sy/!svn/ver/76/eucalyptus-admin/web/js/views/searches/cloudmanagement_healthchecking.js
+END
+infrastructure_cc.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/76/eucalyptus-admin/web/js/views/searches/infrastructure_cc.js
+END
+image.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/searches/image.js
+END
+cloudmanagement_policy.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/79/eucalyptus-admin/web/js/views/searches/cloudmanagement_policy.js
+END

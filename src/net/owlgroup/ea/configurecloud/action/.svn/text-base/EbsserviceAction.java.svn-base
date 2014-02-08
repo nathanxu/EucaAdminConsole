@@ -1,0 +1,68 @@
+package net.owlgroup.ea.configurecloud.action;
+
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.annotation.Resource;
+
+import net.sf.json.JSONArray;
+import net.sf.json.JSONObject;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.alibaba.citrus.service.requestcontext.parser.ParserRequestContext;
+import com.alibaba.citrus.turbine.Context;
+import com.alibaba.citrus.turbine.dataresolver.Param;
+import com.alibaba.citrus.turbine.util.Function;
+import com.eucalyptus.admin.EucaAdminConsole;
+import com.eucalyptus.admin.console.EucaConsoleMessage;
+
+@Function()
+public class EbsserviceAction {
+    
+    
+    protected Logger logger = LoggerFactory.getLogger(getClass());
+
+    @Resource
+    private ParserRequestContext parser;
+
+
+    @Function("public")
+    public void doQuery(Context context) {
+    	try {
+            EucaAdminConsole console = new EucaAdminConsole();
+            console.setUsemock(true);
+            JSONArray result = new JSONArray();
+    		JSONArray clusters = (JSONArray)console.describeServices("cluster", null, null, null).getData();
+    		for (Object object : clusters) {
+    			JSONObject cluster = (JSONObject)object;
+    			String partition = cluster.getString("partition");
+    			EucaConsoleMessage ebsMsg = console.getEbsServiceProperties(partition);
+    			JSONArray ebsArr = (JSONArray)ebsMsg.getData();
+    			JSONObject ebs = (JSONObject)ebsArr.get(0);
+    			ebs.put("partition", partition);
+    			result.add(ebs);
+    			
+    		}
+            context.put("json", result);
+		} catch (Exception e) {
+			logger.error(e.getMessage(), e);
+		}
+    }
+    
+    @Function("public")
+    public void doModify(Context context, @Param(name="partition") String partition, @Param(name="name") String name, 
+    		@Param(name="value") String value) {
+    	try {
+            EucaAdminConsole console = new EucaAdminConsole();
+            console.setUsemock(true);
+    		boolean result = console.modifyEbsServiceProperty(partition, name, value).getStatus();
+            context.put("json", result);
+		} catch (Exception e) {
+			logger.error(e.getMessage(), e);
+			context.put("json", false);
+		}
+    }
+}

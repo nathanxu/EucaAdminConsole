@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models
+END
+instance.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/instance.js
+END
+address.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/address.js
+END
+insthealths.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/insthealths.js
+END
+alarm.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/alarm.js
+END
+metric.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/metric.js
+END
+scalinginst.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/scalinginst.js
+END
+summarys.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/summarys.js
+END
+zone.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/zone.js
+END
+sgroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/sgroup.js
+END
+eucacollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/eucacollection.js
+END
+astags.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/astags.js
+END
+bucket.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/bucket.js
+END
+buckets.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/buckets.js
+END
+astag.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/astag.js
+END
+zones.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/zones.js
+END
+availabilityzone.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/availabilityzone.js
+END
+sgroups.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/sgroups.js
+END
+summary.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/summary.js
+END
+metrics.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/metrics.js
+END
+addresses.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/addresses.js
+END
+insthealth.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/insthealth.js
+END
+launchconfigs.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/launchconfigs.js
+END
+volume.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/volume.js
+END
+scalingpolicys.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/scalingpolicys.js
+END
+keypairs.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/keypairs.js
+END
+tag.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/tag.js
+END
+scalingpolicy.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/scalingpolicy.js
+END
+keypair.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/keypair.js
+END
+loadbalancers.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/loadbalancers.js
+END
+balancer.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/balancer.js
+END
+scalinggrps.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/scalinggrps.js
+END
+launchconfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/launchconfig.js
+END
+snapshots.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/snapshots.js
+END
+availabilityzones.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/availabilityzones.js
+END
+eip.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/eip.js
+END
+eips.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/eips.js
+END
+scalinginsts.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/scalinginsts.js
+END
+snapshot.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/snapshot.js
+END
+alarms.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/alarms.js
+END
+instances.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/instances.js
+END
+scalinggrp.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/scalinggrp.js
+END
+balancers.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/balancers.js
+END
+loadbalancer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/loadbalancer.js
+END
+eucamodel.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/eucamodel.js
+END
+image.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/image.js
+END
+volumes.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/volumes.js
+END
+tags.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/tags.js
+END
+images.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/models/images.js
+END

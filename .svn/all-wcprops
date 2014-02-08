@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/sy/!svn/ver/13/eucalyptus-admin
+END
+.tomcatplugin
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/sy/!svn/ver/3/eucalyptus-admin/.tomcatplugin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sy/!svn/ver/706/eucalyptus-admin/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sy/!svn/ver/3/eucalyptus-admin/.classpath
+END

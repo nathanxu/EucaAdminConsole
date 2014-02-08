@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:services="http://www.alibaba.com/schema/services"
+	xmlns:ml-factories="http://www.alibaba.com/schema/services/module-loader/factories"
+	xmlns="http://www.springframework.org/schema/beans" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+           http://www.alibaba.com/schema/services                         http://www.alibaba.com/schema/services.xsd
+           http://www.alibaba.com/schema/services/module-loader/factories http://www.alibaba.com/schema/services-module-loader-factories.xsd
+           http://www.springframework.org/schema/beans                    http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context                  http://www.springframework.org/schema/context/spring-context-3.0.xsd
+       ">
+
+	<context:component-scan base-package="net.owlgroup.ea">
+		<context:include-filter type="regex" expression=".*Dao" />
+		<context:include-filter type="regex" expression=".*DaoImpl" />
+		<context:include-filter type="regex" expression=".*Service" />
+		<context:include-filter type="regex" expression=".*ServiceImpl" />
+	</context:component-scan>
+
+	<!-- 共享配置。 -->
+	<import resource="webx/webx-component-and-root.xml" />
+	<import resource="webx/webx-component.xml" />
+
+	<!-- 执行管道。 -->
+	<import resource="webx/pipeline.xml" />
+
+	<!-- 装载模块。 -->
+	<services:module-loader>
+		<ml-factories:class-modules>
+			<ml-factories:search-classes name="$1.$2.$3" classes="net.owlgroup.*.*.action.*" type="action" />
+		</ml-factories:class-modules>
+	</services:module-loader>
+
+	<!-- 页面授权。 -->
+	<services:page-authorization default="allow" xmlns="http://www.alibaba.com/schema/services">
+		<match target="/">
+			<grant user="*">
+				<allow>*</allow>
+			</grant>
+		</match>
+	</services:page-authorization>
+</beans>

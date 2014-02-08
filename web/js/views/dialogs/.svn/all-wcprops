@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs
+END
+delete_volume_dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/delete_volume_dialog.html
+END
+dialog_help.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/dialog_help.html
+END
+scalinggroupeditproperties.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/scalinggroupeditproperties.js
+END
+create_metric.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_metric.js
+END
+attach_volume_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/attach_volume_dialog.js
+END
+create_security_group_fixup.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_security_group_fixup.html
+END
+suspendscalingprocesses.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/suspendscalingprocesses.js
+END
+deletelaunchconfig2.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/deletelaunchconfig2.html
+END
+delete_snapshot_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/delete_snapshot_dialog.js
+END
+create_launchconfig_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_launchconfig_dialog.js
+END
+create_alarm.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_alarm.html
+END
+tag_edit_nub.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/tag_edit_nub.js
+END
+create_volume_dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_volume_dialog.html
+END
+register_snapshot_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/register_snapshot_dialog.js
+END
+quickscaledialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/quickscaledialog.js
+END
+deletescalinggroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/deletescalinggroup.js
+END
+resumescalingprocesses.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/resumescalingprocesses.html
+END
+edittags.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/edittags.html
+END
+create_security_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_security_group.html
+END
+deletelaunchconfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/deletelaunchconfig.js
+END
+create_snapshot_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_snapshot_dialog.js
+END
+scalinggroupmanageinstances.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/scalinggroupmanageinstances.html
+END
+detach_volume_dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/detach_volume_dialog.html
+END
+eucadialogview.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/eucadialogview.js
+END
+delete_volume_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/delete_volume_dialog.js
+END
+dialog_help.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/dialog_help.js
+END
+scalinggroupeditproperties.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/scalinggroupeditproperties.html
+END
+deletelaunchconfig2.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/deletelaunchconfig2.js
+END
+attach_volume_dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/attach_volume_dialog.html
+END
+create_metric.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_metric.html
+END
+suspendscalingprocesses.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/suspendscalingprocesses.html
+END
+create_alarm.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_alarm.js
+END
+delete_snapshot_dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/delete_snapshot_dialog.html
+END
+deletescalinggroup2.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/deletescalinggroup2.html
+END
+create_launchconfig_dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_launchconfig_dialog.html
+END
+create_volume_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_volume_dialog.js
+END
+tag_edit_nub.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/tag_edit_nub.html
+END
+delete_snapshot_registered.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/delete_snapshot_registered.html
+END
+register_snapshot_dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/register_snapshot_dialog.html
+END
+create_security_group.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_security_group.js
+END
+edittags.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/edittags.js
+END
+quickscaledialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/quickscaledialog.html
+END
+deletescalinggroup.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/deletescalinggroup.html
+END
+scalinggroupmanageinstances.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/scalinggroupmanageinstances.js
+END
+detach_volume_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/detach_volume_dialog.js
+END
+deletelaunchconfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/deletelaunchconfig.html
+END
+create_snapshot_dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/dialogs/create_snapshot_dialog.html
+END

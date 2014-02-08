@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sy/!svn/ver/524/eucalyptus-admin/web/jsconfig
+END
+dnsservice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/524/eucalyptus-admin/web/jsconfig/dnsservice.xml
+END
+s3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sy/!svn/ver/428/eucalyptus-admin/web/jsconfig/s3.xml
+END

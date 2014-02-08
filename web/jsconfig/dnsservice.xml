@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<attr>
+		<label>{{:dns_subdomain}}</label>
+ 		<labelclass>required-label long-label</labelclass><!--required-label,long-label,extra-long-label,mega-long-label-->
+		<type>text</type>
+		<id>system.dns.dnsdomain</id>
+		<class>required</class>
+		<title></title>
+		<maxLength>254</maxLength>
+	</attr>
+	<attr>
+		<label>{{:dns_use_instance_dns}}</label>
+		<labelclass>required-label long-label</labelclass>
+		<type>checkbox</type>
+		<id>use_instance_dns</id>
+
+	</attr>
+	<attr>
+		<label>{{:dns_instance_subdomain}}</label>
+		<labelclass>required-label long-label</labelclass>
+		<type>text</type>
+		<id>cloud.vmstate.instance_subdomain</id>
+		<class>required</class>
+		<title></title>
+		<maxLength>254</maxLength>
+	</attr>
+	<attr>
+		<label>{{:dns_use_dns_delegation}}</label>
+		<labelclass>required-label long-label</labelclass>
+		<type>checkbox</type>
+		<id>use_dns_delegation</id>
+
+	</attr>
+</root>

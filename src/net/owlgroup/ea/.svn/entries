@@ -1,0 +1,109 @@
+10
+
+dir
+818
+https://hhxxsy.oicp.net:4443/svn/sy/eucalyptus-admin/src/net/owlgroup/ea
+https://hhxxsy.oicp.net:4443/svn/sy
+
+
+
+2013-11-08T05:25:12.528039Z
+818
+zhangdi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b26c3820-ef0e-49c3-964f-cfe3005a0ce1
+
+address
+dir
+
+alarms
+dir
+
+balancers
+dir
+
+bean
+dir
+
+cloud
+dir
+
+cloudmanagement
+dir
+
+cluster
+dir
+
+configurations
+dir
+
+configurecloud
+dir
+
+dashboard
+dir
+
+image
+dir
+
+init
+dir
+
+instance
+dir
+
+keypair
+dir
+
+login
+dir
+
+metrics
+dir
+
+network
+dir
+
+node
+dir
+
+policies
+dir
+
+pub
+dir
+
+scalings
+dir
+
+securitygroup
+dir
+
+snapshot
+dir
+
+summary
+dir
+
+tag
+dir
+
+volume
+dir
+
+zones
+dir
+

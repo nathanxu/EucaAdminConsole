@@ -1,0 +1,16 @@
+define([
+    'app',
+    'views/searches/generic',
+    'views/searches/tagsearch'
+], function(app, Search, TagSearch) {
+  return function(report) {
+    var config = {
+      facets : ['all_text','resource'],
+      localize: {
+        all_text: app.msg('search_facet_alltext'),
+        resource: app.msg('title_report_capacity_resource')
+      }
+    };
+    return new Search(report, new TagSearch(config, report));
+  };
+});

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi
+END
+Codec.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/Codec.js
+END
+CSSCodec.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/CSSCodec.js
+END
+PushbackString.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/PushbackString.js
+END
+UTF8.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/UTF8.js
+END
+PercentCodec.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/PercentCodec.js
+END
+Base64.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/Base64.js
+END
+DefaultEncoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/DefaultEncoder.js
+END
+JavascriptCodec.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/JavascriptCodec.js
+END
+HTMLEntityCodec.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/lib/esapi/HTMLEntityCodec.js
+END

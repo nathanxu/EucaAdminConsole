@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/jcaptcha
+END
+TransparencyBackgroundGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/jcaptcha/TransparencyBackgroundGenerator.java
+END
+JCaptchaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/jcaptcha/JCaptchaService.java
+END
+DefaultImageCaptchaEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/jcaptcha/DefaultImageCaptchaEngine.java
+END

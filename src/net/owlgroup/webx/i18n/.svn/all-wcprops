@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/i18n
+END
+ResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/i18n/ResourceBundle.java
+END
+ClasspathResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/i18n/ClasspathResourceBundle.java
+END
+WebcontextResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/i18n/WebcontextResourceBundle.java
+END
+LocaleHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/i18n/LocaleHolder.java
+END
+PropertyResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/i18n/PropertyResourceBundle.java
+END
+ResourceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/webx/i18n/ResourceNotFoundException.java
+END

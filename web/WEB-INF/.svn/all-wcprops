@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/sy/!svn/ver/603/eucalyptus-admin/web/WEB-INF
+END
+webx-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sy/!svn/ver/432/eucalyptus-admin/web/WEB-INF/webx-app.xml
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/893/eucalyptus-admin/web/WEB-INF/logback.xml
+END
+webx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sy/!svn/ver/436/eucalyptus-admin/web/WEB-INF/webx.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sy/!svn/ver/236/eucalyptus-admin/web/WEB-INF/web.xml
+END

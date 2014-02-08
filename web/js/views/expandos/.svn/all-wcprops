@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos
+END
+infrastructure_storage_das.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_das.js
+END
+instance.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/instance.js
+END
+launchconfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/launchconfig.js
+END
+infrastructure_storage_das.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_das.html
+END
+launchconfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/launchconfig.html
+END
+instance.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/instance.html
+END
+cloudmanagement_instancereport.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sy/!svn/ver/822/eucalyptus-admin/web/js/views/expandos/cloudmanagement_instancereport.js
+END
+infrastructure_storage_emc-vnx.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_emc-vnx.js
+END
+cloudmanagement_instancereport.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sy/!svn/ver/822/eucalyptus-admin/web/js/views/expandos/cloudmanagement_instancereport.html
+END
+ipaddress.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/ipaddress.js
+END
+sgroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/sgroup.js
+END
+eucaexpandoview.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/eucaexpandoview.js
+END
+infrastructure_storage_emc-vnx.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_emc-vnx.html
+END
+ipaddress.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/ipaddress.html
+END
+sgroup.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/sgroup.html
+END
+infrastructure_storage_equallogic.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_equallogic.js
+END
+infrastructure_storage_equallogic.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_equallogic.html
+END
+scaling.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/scaling.js
+END
+scaling.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/scaling.html
+END
+snapshot.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/snapshot.js
+END
+infrastructure_storage_netapp.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_netapp.js
+END
+snapshot.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/snapshot.html
+END
+infrastructure_storage_netapp.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_netapp.html
+END
+infrastructure_storage_clvm.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_clvm.js
+END
+infrastructure_storage_clvm.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sy/!svn/ver/380/eucalyptus-admin/web/js/views/expandos/infrastructure_storage_clvm.html
+END
+image.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/image.js
+END
+volume.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/volume.js
+END
+image.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/image.html
+END
+volume.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/js/views/expandos/volume.html
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/sy/!svn/ver/818/eucalyptus-admin/web/custom
+END
+Messages_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_en_US.properties
+END
+Messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_en.properties
+END
+Messages_ja_JP.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_ja_JP.properties
+END
+Messages_ko.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_ko.properties
+END
+Messages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_ru.properties
+END
+Messages_ko_KR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_ko_KR.properties
+END
+Messages_es_ES.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_es_ES.properties
+END
+Messages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_fr_FR.properties
+END
+Messages_it_IT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_it_IT.properties
+END
+Messages_fi_FI.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_fi_FI.properties
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/822/eucalyptus-admin/web/custom/Messages.properties
+END
+Messages_ru_RU.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_ru_RU.properties
+END
+Messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/Messages_ja.properties
+END
+Messages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/823/eucalyptus-admin/web/custom/Messages_zh_CN.properties
+END
+check_usage.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/check_usage.sh
+END
+format_properties.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/custom/format_properties.py
+END

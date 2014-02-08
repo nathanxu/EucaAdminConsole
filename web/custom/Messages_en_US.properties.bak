@@ -1,0 +1,85 @@
+#[common main]
+instances_label = Configuring Cloud
+images_label = Infrastructure
+storage_label = Managing Cloud
+
+
+#[DashBorad]
+dash_access_group = Group
+dash_access_user = User
+dash_access_account = ’ ªß
+dash_usage_cpu = CPU
+dash_usage_disk = Disk
+dash_usage_mem =  Memory
+dash_network_title = Network
+dash_storage_title = Storage
+dash_topology_title = Topology
+dash_instance = VM
+dash_ebs = EBS
+dash_eip = Elastic IP
+dash_instance_total = total
+dash_instance_available = available
+dash_instance_pendding = Pendding
+dash_ebs_total = total
+dash_ebs_available = available
+dash_eip_total = total
+dash_eip_available = available
+dash_eip_usage = Used/Total
+
+dash_account_title = Account/User
+dash_usage_title = Used/Total
+dash_infranstructure_title = Infrastructure
+dash_virulized_title = Virtulization Resource
+
+#[Infrastructure Topology]
+infrastructure_menu_topology = Topology
+infrastructure_menu_topologyconf = Components
+infrastructure_menu_cloud = Cloud Component
+infrastructure_menu_clc = Cloud Controller
+infrastructure_menu_walrus = Walrus
+infrastructure_menu_clusters = Clusters
+infrastructure_menu_cc = Cluster Controller
+infrastructure_menu_sc = Storage Controller
+infrastructure_menu_vmb = VMWare Broker
+infrastructure_menu_node = Node Controller
+infrastructure_menu_storage = Storage
+infrastructure_menu_network = Network
+
+title_infrastructure = Infrastructure
+
+#[Cloud Configure]
+configurecloud_menu_property = Properties
+configurecloud_menu_vmtype = Vmtype
+configurecloud_menu_ebs = EBS service
+configurecloud_menu_s3 = S3 service
+configurecloud_menu_dns = DNS Service
+configurecloud_menu_elb =  Loadbalancer
+configurecloud_title = Configuring Cloud
+cloudproperties_subtitle = Properties
+vmtype_subtitle = vmtype
+ebsservice_subtitle = EBS service
+s3_subtitle = S3 service
+dnsservice_subtitle = DNS service
+loadbalancerservice_subtitle = Loadbalancer
+cloudproperties_name = name
+cloudproperties_value = value
+cloudproperties_id = ID
+
+#[Cloud Manage]
+cloudmanagement_title = Managing Cloud
+cloudmanagement_menu_access = Managing Access 
+cloudmanagement_menu_account = Account
+cloudmanagement_menu_user = User
+cloudmanagement_menu_group = User Group
+cloudmanagement_menu_policy = Policy
+cloudmanagement_menu_creds = Crendentials
+cloudmanagement_menu_image = Manage Image
+cloudmanagement_menu_report = Report
+cloudmanagement_menu_capcacity_report = Capacity Report
+cloudmanagement_menu_s3_report = S3 Report
+cloudmanagement_menu_instance_report = Instance Report
+cloudmanagement_menu_volume_report = Volume Report
+cloudmanagement_menu_ip_report = EIP Report
+cloudmanagement_menu_monitor = Monitoring
+cloudmanagement_menu_health = Components Health
+cloudmanagement_menu_logs = Log/Analyst

@@ -1,0 +1,11 @@
+# Global Settings
+
+# if property key ends with '.password' or '.confidential', 
+# the value will be crypted automatically.
+
+api.usemock=true
+api.clcIp=192.168.1.1
+api.clcPort=8088
+api.accessKey=TYR235476fqwe
+api.secretKey=1Q2#e$%R^YRE
+-DCredentialDir=D:/test

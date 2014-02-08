@@ -1,0 +1,10 @@
+define([
+    'models/eucacollection',
+    'models/image'
+], function(EucaCollection, Image) {
+    var Images = EucaCollection.extend({
+	    model: Image,
+	    url: 'ea.image.ImageAction$query.json',
+    });
+    return Images;
+});

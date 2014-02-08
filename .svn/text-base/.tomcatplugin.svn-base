@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>web</rootDir>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <extraInfo></extraInfo>
+    <webPath>/ROOT</webPath>
+    <extraDocBases></extraDocBases>
+    <webClassPathEntries>
+        <webClassPathEntry>/eucalyptus-admin/bin</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>

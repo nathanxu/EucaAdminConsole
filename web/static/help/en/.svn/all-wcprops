@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en
+END
+console_register_snapshot_as_image.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_register_snapshot_as_image.html
+END
+console_manage_scaling_group_instances.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_scaling_group_instances.html
+END
+console_create_launch_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_launch_config.html
+END
+console_quick_scale.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_quick_scale.html
+END
+console_enter_custom_metric.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_enter_custom_metric.html
+END
+console_remove_instances_from_load_balancer.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_remove_instances_from_load_balancer.html
+END
+console_edit_security_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_edit_security_group.html
+END
+console_delete_volumes.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_delete_volumes.html
+END
+console_manage_instances.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_instances.html
+END
+console_reboot_instances.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_reboot_instances.html
+END
+console_manage_keypairs.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_keypairs.html
+END
+console_stop_instances.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_stop_instances.html
+END
+console_manage_volumes.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_volumes.html
+END
+console_manage_balancing.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_balancing.html
+END
+console_about.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_about.html
+END
+console_create_instances.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_instances.html
+END
+console_delete_load_balancer.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_delete_load_balancer.html
+END
+console_edit_load_balancer.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_edit_load_balancer.html
+END
+console_create_launch_config_from_instance.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_launch_config_from_instance.html
+END
+console_manage_scaling_groups.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_scaling_groups.html
+END
+console_delete_scaling_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_delete_scaling_group.html
+END
+console_suspend_scaling_procs.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_suspend_scaling_procs.html
+END
+console_edit_scaling_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_edit_scaling_group.html
+END
+console_manage_eips.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_eips.html
+END
+console_terminate_instances.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_terminate_instances.html
+END
+console_launch_more_instances.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_launch_more_instances.html
+END
+console_manage_launch_configs.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_launch_configs.html
+END
+console_manage_load_balancers.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_load_balancers.html
+END
+console_create_alarm.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_alarm.html
+END
+console_create_volume.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_volume.html
+END
+console_manage_scaling.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_scaling.html
+END
+console_create_load_balancer.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_load_balancer.html
+END
+console_allocate_eip.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_allocate_eip.html
+END
+console_add_instances_to_load_balancer.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_add_instances_to_load_balancer.html
+END
+console_delete_snapshot.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_delete_snapshot.html
+END
+console_delete_keypair.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_delete_keypair.html
+END
+console_release_eip.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_release_eip.html
+END
+console_dashboard.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_dashboard.html
+END
+console_attach_volume.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_attach_volume.html
+END
+console_delete_security_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_delete_security_group.html
+END
+console_create_scaling_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_scaling_group.html
+END
+console_manage_images.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_images.html
+END
+console_add_edit_tags.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_add_edit_tags.html
+END
+console_import_keypair.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_import_keypair.html
+END
+console_disassociate_eip.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_disassociate_eip.html
+END
+console_associate_eip.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_associate_eip.html
+END
+console_change_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_change_password.html
+END
+console_delete_launch_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_delete_launch_config.html
+END
+console_edit_launch_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_edit_launch_config.html
+END
+console_login.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_login.html
+END
+console_manage_security_groups.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_security_groups.html
+END
+console_create_snapshot.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_snapshot.html
+END
+console_create_keypair.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_keypair.html
+END
+console_detach_volume.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_detach_volume.html
+END
+console_manage_snapshots.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_manage_snapshots.html
+END
+console_create_security_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_create_security_group.html
+END
+console_resume_scaling_procs.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_resume_scaling_procs.html
+END
+console_get_console_output.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/help/en/console_get_console_output.html
+END

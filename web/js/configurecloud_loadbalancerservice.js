@@ -1,0 +1,185 @@
+/*************************************************************************
+ * Copyright 2009-2012 Eucalyptus Systems, Inc.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; version 3 of the License.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see http://www.gnu.org/licenses/.
+ *
+ * Please contact Eucalyptus Systems, Inc., 6755 Hollister Ave., Goleta
+ * CA 93117, USA or visit http://www.eucalyptus.com/licenses/ if you need
+ * additional information or have any questions.
+ ************************************************************************/
+
+(function($, eucalyptus) {
+  $.widget('eucalyptus.configurecloud_loadbalancerservice', $.eucalyptus.eucawidget, {
+    options : { },
+    baseTable : null,
+    tableWrapper : null,
+    _init : function() {
+      var thisObj = this;
+      var $tmpl = $('html body div.templates').find('#loadbalancerserviceTmpl').clone();    
+      var $wrapper = $($tmpl.render($.i18n.map));
+      var $configurecloud = $wrapper.children().first();
+      var $help = $wrapper.children().last(); 
+      var $instTable = $configurecloud.children('.inner-table');
+      thisObj.tableWrapper = $instTable.innertable({
+          id : 'configurecloud_loadbalancer', // user of this widget should customize these options,
+          data_deps: ['configurecloud_loadbalancer'],
+          hidden: thisObj.options['hidden'],
+          dt_arg : {
+            "sAjaxSource": 'configurecloud_loadbalancer',
+            "aaSorting": [[ 3, "desc" ]],
+            "aoColumnDefs": [
+              {
+                "bSortable": false,
+                "aTargets":[0],
+                "mData": function(source) { 
+                	val = source.isLBimage?'checked':' ';
+                	return '<input type="radio" name="loadbalancerradio" '+ val +'/>'; 
+                },
+                "sClass": "checkbox-cell",
+              },
+              {
+                  "aTargets":[1],
+                  "mData": function(source) { 
+                    return source.imageId;
+                  },
+                },
+                {
+              	"aTargets":[2],
+                  "mData": function(source){
+                    return source.kernel;
+                  },
+                },
+                {
+                  "aTargets":[3],
+                  "mData": function(source) { 
+                  	return source.description;
+                  },
+                },
+                {
+                    "aTargets":[4],
+                    "mData": function(source) { 
+                      return source.architecture;
+                    },
+                  },
+                  {
+                	"aTargets":[5],
+                    "mData": function(source){
+                      return source.isPublic;
+                    },
+                  },
+                {
+                  "aTargets":[6],
+                  "mData": function(source) { 
+                  	return source.imageType;
+                  },
+                },
+                                {
+                  "aTargets":[7],
+                  "mData": function(source) { 
+                    return source.state;;
+                  },
+                },
+            ]
+          },
+          text : {
+            create_resource : setas_loadbalancer,
+            resource_found : 'record_found',
+            resource_search : record_search,
+            resource_plural : record_plural,
+          },
+          menu_click_create : function(e) {
+            var items = [];
+            var $tableWrapper = thisObj.tableWrapper;
+            items = $tableWrapper.innertable('getSelectedRows', 1);
+
+            if ( items.length == 1 ) {
+                thisObj._setDefault(items[0]);
+            }            
+          },            
+
+          draw_cell_callback : null, 
+          expand_callback : function(row){ // row = [col1, col2, ..., etc]
+            return thisObj._expandCallback(row);
+          }
+      }); //end of eucatable
+      $configurecloud.find('#install_defaultloadbalancer').click(function(){
+        thisObj._install();
+      });
+      var $wrapper = $('<div>').addClass('cloudproperties-wrapper');
+      $configurecloud.appendTo($wrapper);
+      $wrapper.appendTo(this.element);
+      
+    },
+
+    _create : function() { 
+    },
+    
+    _setDefault : function(image) {
+          $.ajax({
+            type:"POST",
+            url:"ea.configurecloud.LoadbalancerAction$setDefault.json",
+            data:{image: image},
+            dataType:"json",
+            async:false,
+            success:
+            function(data, textStatus, jqXHR){
+              if (data.state) {
+                  notifySuccess($.i18n.map.success_msg_save);
+              } else {
+                  notifyError($.i18n.map.error_msg_save + ":" + data.message);
+              }
+              require(['app'], function(app) { 
+                app.data.configurecloud_loadbalancer.fetch(); 
+              });
+              thisObj.tableWrapper.innertable('refreshTable');
+            },
+            error:
+            function(jqXHR, textStatus, errorThrown){
+              notifyError($.i18n.map.error_msg_save, getErrorMessage(jqXHR));
+            }
+         });           
+    },
+    
+        _install : function() {
+          $.ajax({
+            type:"POST",
+            url:"ea.configurecloud.LoadbalancerAction$install.json",
+            dataType:"json",
+            async:false,
+            success:
+            function(data, textStatus, jqXHR){
+              if (data.state) {
+                  notifySuccess($.i18n.map.success_msg_add);
+              } else {
+                  notifyError($.i18n.map.error_msg_add + ":" + data.message);
+              }
+              require(['app'], function(app) { 
+                app.data.configurecloud_loadbalancer.fetch(); 
+              });
+              thisObj.tableWrapper.innertable('refreshTable');
+            },
+            error:
+            function(jqXHR, textStatus, errorThrown){
+              notifyError($.i18n.map.error_msg_add, getErrorMessage(jqXHR));
+            }
+         });           
+    },
+
+    _destroy : function() { },
+
+    close: function() {
+      this._super('close');
+    }
+  });
+})(jQuery,
+   window.eucalyptus ? window.eucalyptus : window.eucalyptus = {});

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<target>System.out</target>
+		<encoding>${loggingCharset}</encoding>
+		<layout class="ch.qos.logback.classic.PatternLayout">
+			<pattern>[%d] %-5level %logger{20} - %msg%n</pattern>
+		</layout>
+		<filter class="com.alibaba.citrus.logconfig.logback.LevelRangeFilter">
+			<levelMax>INFO</levelMax>
+		</filter>
+	</appender>
+
+	<appender name="STDERR" class="ch.qos.logback.core.ConsoleAppender">
+		<target>System.err</target>
+		<encoding>${loggingCharset}</encoding>
+		<layout class="ch.qos.logback.classic.PatternLayout">
+			<pattern>[%d] %-5level %logger{20} - %msg%n</pattern>
+		</layout>
+		<filter class="com.alibaba.citrus.logconfig.logback.LevelRangeFilter">
+			<levelMin>WARN</levelMin>
+		</filter>
+	</appender>
+
+	<appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+	    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${loggingRoot}/logs/eucalyptus-%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>10</maxHistory>
+        </rollingPolicy>
+		<encoder>
+			<pattern>[%d] %-5level %logger{20} - %msg%n</pattern>
+		</encoder>
+	</appender>
+
+
+	<logger name="com" level="INFO" additivity="false">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="FILE" />
+	</logger>
+	<logger name="org" level="INFO" additivity="false">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="FILE" />
+	</logger>
+	<logger name="com.opensymphony" level="INFO" additivity="false">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="FILE" />
+	</logger>
+	<logger name="org.ibatis" level="DEBUG" additivity="false">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="FILE" />
+	</logger>
+	<logger name="org.hibernate" level="INFO" additivity="false">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="FILE" />
+	</logger>
+	<logger name="com.ibatis" level="DEBUG" additivity="false">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="FILE" />
+	</logger>
+	<logger name="net.owlgroup" level="DEBUG" additivity="false">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="FILE" />
+	</logger>
+	<root>
+		<level value="${loggingLevel}" />
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="FILE" />
+	</root>
+</configuration>

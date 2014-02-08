@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/ea/securitygroup/bean
+END
+StrugSecuritygroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/ea/securitygroup/bean/StrugSecuritygroup.java
+END
+SecuritygroupData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/ea/securitygroup/bean/SecuritygroupData.java
+END
+SgroupRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/ea/securitygroup/bean/SgroupRule.java
+END
+SgroupRuleGrant.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sy/!svn/ver/3/eucalyptus-admin/src/net/owlgroup/ea/securitygroup/bean/SgroupRuleGrant.java
+END

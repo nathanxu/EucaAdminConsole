@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/tags/webx
+END
+message.tag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/tags/webx/message.tag
+END
+set2json.tag
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/tags/webx/set2json.tag
+END
+list2json.tag
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/tags/webx/list2json.tag
+END
+map2json.tag
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/WEB-INF/tags/webx/map2json.tag
+END

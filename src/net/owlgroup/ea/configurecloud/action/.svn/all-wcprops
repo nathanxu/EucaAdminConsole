@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sy/!svn/ver/523/eucalyptus-admin/src/net/owlgroup/ea/configurecloud/action
+END
+CloudpropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sy/!svn/ver/430/eucalyptus-admin/src/net/owlgroup/ea/configurecloud/action/CloudpropertiesAction.java
+END
+VmtypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sy/!svn/ver/430/eucalyptus-admin/src/net/owlgroup/ea/configurecloud/action/VmtypeAction.java
+END
+S3Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sy/!svn/ver/893/eucalyptus-admin/src/net/owlgroup/ea/configurecloud/action/S3Action.java
+END
+EbsserviceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sy/!svn/ver/430/eucalyptus-admin/src/net/owlgroup/ea/configurecloud/action/EbsserviceAction.java
+END
+DnsserviceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sy/!svn/ver/893/eucalyptus-admin/src/net/owlgroup/ea/configurecloud/action/DnsserviceAction.java
+END
+LoadbalancerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sy/!svn/ver/893/eucalyptus-admin/src/net/owlgroup/ea/configurecloud/action/LoadbalancerAction.java
+END

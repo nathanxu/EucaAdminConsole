@@ -1,0 +1,71 @@
+* {margin:0; padding:0}
+body { background:#FFF}
+.menu {position:relative; background:url(images/menubg.png) repeat; height:55px; width:100%}
+.menu ul {list-style:none; z-index:10; position:absolute; z-index:100; padding:9px 5px}
+.menu li {float:left}
+.menu a, .menu a:active, .menu a:visited {text-decoration:none; color:#FFF; padding:10px;font:24px Helvetica, sans-serif; font-weight:bold;}
+.menu a:hover {color:#7a853b}
+.menu span{text-decoration:none; color:#FFF; padding:10px;font:24px Helvetica, sans-serif; font-weight:bold;  user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;}
+#slide {position:absolute; bottom:1; height:4px; background:#8CC63E; z-index:10;font-size:2px;}
+
+a{ blr:expression(this.onFocus=this.blur()); /* IE Opera */ outline:none; /* FF Opera */ } 
+a:focus{ -moz-outline-style: none; /* FF */ }
+
+.euca-header-container {
+  background: transparent url(images/css-sprites.png) repeat left -25px;
+  height: 50px;
+}
+.clearfix:before,
+.clearfix:after {
+  content:"";
+  display:table;
+}
+.clearfix:after {
+  clear:both;
+}
+.clearfix {
+  zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+#euca-logo {
+  float: left;
+  height: 22px;
+  width: 207px;
+  margin-top: 13px;
+  background: transparent url(images/css-sprites.png) no-repeat left 0;
+  border: none;
+}
+#euca-navigator {
+  display: none;
+  position: absolute;
+  left: 235px;
+  border: 1px solid #e3e1e1;
+  border-width: 0 1px;
+}
+
+#euca-navigator.toggle-on {
+  background-color: #eceaec;
+  border-color: #ccc;
+  padding-bottom: 4px;
+}
+#euca-help {
+  display: none;
+  float: right;
+}
+#euca-help .header-nav {
+  border-left: 0;
+}
+#euca-user {
+  display: none;
+  float: right;   
+}
+#euca-user .header-nav ul {
+  /* User nav should position, so it flys out to the left */
+  /* right: 10px;  TO-DO */
+} 
+.hide-text {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}

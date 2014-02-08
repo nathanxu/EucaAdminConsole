@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views
+END
+scaling.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/scaling.js
+END
+eips.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/eips.js
+END
+sgroups.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/sgroups.js
+END
+baseview.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/baseview.js
+END
+keys.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/keys.js
+END
+eucaview.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/eucaview.js
+END
+snapshots.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/snapshots.js
+END
+balancers.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/balancers.js
+END
+wizardbase.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/wizardbase.js
+END
+volumes.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/volumes.js
+END
+buckets.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/buckets.js
+END
+images.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sy/!svn/ver/3/eucalyptus-admin/web/static/js/views/images.js
+END
