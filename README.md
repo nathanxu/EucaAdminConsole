@@ -6,7 +6,7 @@ Eucalyptus admin console for cloud account and infra admin.
 Compile
 ============
 This project is compiled by eclipse, please download the source codes from git hub and import it to eclipse.
-In eclipse, please install tomcat plugin first (using tomcat 6.3.7)
+In eclipse, please install tomcat plugin first (using tomcat 6.0.37)
 
 tomcat WAR file exporting setting in Eclipse
 Project -> Properties -> tomcat -> Export to WAR setting.
